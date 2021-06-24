@@ -1,5 +1,5 @@
-- 👋 Hi, Dennis Abari, am a UAV pilot, Software Engineer, cyber security analyst.
-- 👀 I’m interested in ... Devops, Cyber sec, Machine learning, AI, Crypto currency, Blockchain, Dapps
+- 👋 Hi, Dennis Abari, am a UAV pilot, Software Engineer, cyber security analyst, Blockchain Developer.
+- 👀 I’m interested in ... Devops, Cyber sec, Machine learning, AI, Crypto currency, Blockchain, Dapps, Self driving cars, Sensor Fusion, Bio engineering, Nanotech.
 - 🌱 I’m currently learning ... Blockchain Dev, Nodejs, AWS.
 - 💞️ I’m looking to collaborate on .. open source projects, cyber security tools, cyber security tools.
 - 📫 How to reach me ... abaridennis@outlook.com
